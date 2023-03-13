@@ -145,7 +145,7 @@ You need to first create a new Azure AD Application to secure API permissions. R
 ## 3. Deploy to your Azure subscription
 1. Click on the **Deploy to Azure** button below.
 
-    [![Deploy to Azure](./Images/DeployButton.png)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FOfficeDev%2Fmicrosoft-teams-emergency-operations-center%2Fmain%2FDeployment%2Fazuredeploygcch.json)
+    [![Deploy to Azure](./Images/DeployButton.png)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fv-prigunasek%2Fteoc-gcch-testing%2Fmain%2FDeployment%2Fazuredeploygcch.json)
 
 1. When prompted, log in to your Azure subscription.
 
